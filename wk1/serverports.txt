@@ -1,0 +1,25 @@
+What is the definition of server port?
+A server port is a numeric identifier associated with a specific process or service on a device within a computer network. It enables the directed communication of data to the appropriate application by combining the port number with the device's IP address. Ports allow multiple services to run concurrently on the same device, facilitating the efficient and organized transfer of data in a network. Commonly used ports, such as 80 for HTTP or 443 for HTTPS, have standard assignments, and the port system is integral to the functioning of the transport layer in the TCP/IP protocol suite.
+
+What is server port range?
+The server port range refers to the range of port numbers available for assigning to different services or processes on a server within a computer network. In the context of TCP/IP networking, port numbers range from 0 to 65535. These are divided into three main categories: well-known ports (0-1023), registered ports (1024-49151), and dynamic or private ports (49152-65535). The well-known ports are reserved for widely used services like HTTP (port 80) and FTP (port 21), while registered ports are used by applications that are not as universally recognized. Dynamic or private ports are typically used for temporary purposes and are assigned dynamically by the operating system. The server port range allows for the organized allocation of ports to various network services, ensuring that different applications can coexist on the same server without conflicting with one another.
+
+How many bits does number above represent?
+The range of port numbers in TCP/IP networking is from 0 to 65535. To represent this range, you would need 16 bits. Here's the breakdown:
+
+- The minimum port number is 0 (binary: 0000000000000000).
+- The maximum port number is 65535 (binary: 1111111111111111).
+
+In binary, both the minimum and maximum values can be represented using 16 bits. Therefore, a 16-bit binary number is needed to cover the entire range of possible port numbers in TCP/IP networking.
+
+State 10 common server ports
+1. Port 21: FTP (File Transfer Protocol)
+2. Port 22: SSH (Secure Shell)
+3. Port 80: HTTP (Hypertext Transfer Protocol)
+4. Port 443: HTTPS (Hypertext Transfer Protocol Secure)
+5. Port 25: SMTP (Simple Mail Transfer Protocol)
+6. Port 110: POP3 (Post Office Protocol version 3)
+7. Port 143: IMAP (Internet Message Access Protocol)
+8. Port 53: DNS (Domain Name System)
+9. Port 3306: MySQL Database
+10. Port 3389: RDP (Remote Desktop Protocol)
