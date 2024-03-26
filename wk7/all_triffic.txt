@@ -1,0 +1,46 @@
+tcpdump -i any -w all_traffic_$(date +%Y%m%d_%H%M).pcap
+
+
+  GNU nano 7.2                         all_traffic_20240326_1803.pcap *
+c ò ^B^@^D^@^@^@^@^@^@^@^@^@^@^@^D^@^T^A^@^@^K^N^Cf^R ^L^@ ^@^@^@ ^@^@^@^H^@^@^@^@^@^@^A^C^D^@^F^@^@^@>
+^@^@^A^A^H
+^|-{^|-[ 3@ `z      q    m0%I     ^Y   xΖ @} ' { ^^X Rs  ^G1 ^F~%  X^E\^UD  h    ^K^N^Cf0 ^L^@H^@^@^@H>
+^|-{^|-{^K^N^Cf  ^L^@ ^@^@^@ ^@^@^@^H^@^@^@^@^@^@^B^@^A^D^F    ^G^@^@E^P^@l @@^@@^F x n aF^[) ^@^VǓD q>
+% W  k ^K^N^CfE ^L^@l^@^@^@l^@^@^@^H^@^@^@^@^@^@^A^C^D^@^F^@^@^@^@^@^@^@^@E^P^@X 2@^@@^Fٽ n a n a^@^V >
+^|-|^|-{NC _  2x   ^^ rn t I^U _v^@^P^]  ^F _ z ab^K^N^CfT ^L^@H^@^@^@H^@^@^@^H^@^@^@^@^@^@^A^C^D^@^F^>
+^|-|^|-|^K^N^Cf  ^L^@`^@^@^@`^@^@^@^H^@^@^@^@^@^@^B^@^A^D^F    ^G^@^@E^P^@L A@^@@^F   n aF^[) ^@^VǓD r>
+^|- ^|-|vZU   'o9 ^W w  Va؁4^APPgo   J^[   +O   m  ^@2 ^K^N^Cf^P^L^M^@H^@^@^@H^@^@^@^H^@^@^@^@^@^@^A^C>
+^|- ^|- ^K^N^Cf ^L^M^@h^@^@^@h^@^@^@^H^@^@^@^@^@^@^B^@^A^D^F    ^G^@^@E^P^@T B@^@@^F   n aF^[) ^@^VǓD >
+^|- ^|- oU ez7x u t  I 3  I3B   ^PuK^Y   ]O^F n QF  @ m  m {I^ZT^K^N^Cf^V^M^M^@H^@^@^@H^@^@^@^H^@^@^@^>
+^|- ^|- ^K^N^Cf`^M^M^@p^@^@^@p^@^@^@^H^@^@^@^@^@^@^B^@^A^D^F    ^G^@^@E^P^@\ C@^@@^F   n aF^[) ^@^VǓD >
+^|- ^|-  ^AXiE =  ^O|!  j ^V  D     0 v g^B1| ^A  0-h` eM y* B4 % 6  hߋ ^A (8 ^L     7^DRu ^K^N^Cf ^M^>
+^|- ^|- ^K^N^Cf ^M^M^@ ^@^@^@ ^@^@^@^H^@^@^@^@^@^@^B^@^A^D^F    ^G^@^@E^P^@t D@^@@^F l n aF^[) ^@^VǓD >
+^@^@^A^A^H
+^|- ^|-   9^Uk    d   ^^  ^Q     ^TԹ  Qr <^Q    ^H  =!i d  lXv  "^^ 3  T  , ^ZS ^T\^K^N^Cf0^N^M^@H^@^@>
+^|- ^|- ^K^N^Cfi^N^M^@ ^@^@^@ ^@^@^@^H^@^@^@^@^@^@^B^@^A^D^F    ^G^@^@E^P^@l E@^@@^F s n aF^[) ^@^VǓD >
+ b+f  Bwm t  ^X  Q  ?/^N    E  f(  Z  WȠp -*^O5R S%^N s }  ^K^N^Cf ^N^M^@l^@^@^@l^@^@^@^H^@^@^@^@^@^@^>
+^|- ^|- 1q ^N     ٗb _ 9WVdV pY   ٙ    Xɜ ^K^N^Cf ^N^M^@H^@^@^@H^@^@^@^H^@^@^@^@^@^@^A^C^D^@^F^@^@^@^@^@>
+^|- ^|- ^K^N^Cf ^N^M^@`^@^@^@`^@^@^@^H^@^@^@^@^@^@^B^@^A^D^F    ^G^@^@E^P^@L F@^@@^F   n aF^[) ^@^VǓD >
+VG _   g
+^M^N^Cf  ^H^@I^@^@^@I^@^@^@^H^@^@^@^@^@^@^B^@^A^D^F    ^G^@^@E^@^@5W @^@@^F ޏn aT63N ^\^Q\  K n^W/  ^X>
+   WVG _
+^M^N^Cf<#
+^@H^@^@^@H^@^@^@^H^@^@^@^@^@^@^B^@^A^@^F ^@^@^@^A^A^@^@E^@^@4^] @^@3^F7 T63N n a^Q\ ^\n^W/   K  ^P^A ^>
+VG     W^Q^N^CfG ^B^@ ^D^@^@ ^D^@^@^H^@^@^@^@^@^@^B^@^A^D^F    ^G^@^@E^@^D ^[(@^@@^F   n a eX ^@^V  k >
+ K, ^@å SSH-2.0-OpenSSH_9.3p1 Ubuntu-1ubuntu3.2
+^@^@^DT
+^T3UfŘ1   ^Q ^F$8 q^@^@^A&sntrup761x25519-sha512@openssh.com,curve25519-sha256,curve25519-sha256@libss>
+^@I^@^@^@I^@^@^@^H^@^@^@^@^@^@^B^@^A^@^F ^@^@^@^A^A^@^@E^@^@5^] @^@3^F7 T63N n a^Q\ ^\n^W/   K  ^X^A  >
+VG O   W
+^R^N^Cf (
+^@I^@^@^@I^@^@^@^H^@^@^@^@^@^@^B^@^A^D^F    ^G^@^@E^@^@5W @^@@^F ݏn aT63N ^\^Q\  K n^W/  ^X^A  {^@^@^A>
+  ^QHVG O
+^R^N^Cf) ^K^@H^@^@^@H^@^@^@^H^@^@^@^@^@^@^B^@^A^@^F ^@^@^@^A^A^@^@E^@^@4^] @^@3^F7 T63N n a^Q\ ^\n^W/ >
+VGѸ  ^QH^U^N^Cf v       ^@@^@^@^@@^@^@^@^H^@^@^@^@^@^@^B^@^A^@^F ^@^@^@^A^A^@^@E^@^@,  ^@^@.^F~VyzKF n>
+VG @  ^QH
+^W^N^Cf  ^K^@I^@^@^@I^@^@^@^H^@^@^@^@^@^@^B^@^A^D^F    ^G^@^@E^@^@5W @^@@^F ܏n aT63N ^\^Q\  K n^W/  ^X>
+  %9VG @
+^W^N^Cf U^M^@H^@^@^@H^@^@^@^H^@^@^@^@^@^@^B^@^A^@^F ^@^@^@^A^A^@^@E^@^@4^] @^@3^F7 T63N n a^Q\ ^\n^W/ >
+VG    %9
+
+
